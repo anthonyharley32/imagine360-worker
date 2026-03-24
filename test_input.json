@@ -1,0 +1,8 @@
+{
+  "input": {
+    "video_url": "https://example.com/input_video.mp4",
+    "prompt": "A small modular nuclear reactor facility nestled in a mountain valley, warm afternoon light, pine trees surrounding the facility, power lines extending toward a distant town, cinematic documentary photography style",
+    "seed": 42,
+    "num_inference_steps": 50
+  }
+}
